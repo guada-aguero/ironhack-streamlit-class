@@ -32,7 +32,7 @@ def page3():
             st.write("Failed to fetch weather report information")
     
     else:
-        st.write("You have not selected any location in Page 2. Go to Page 2 and input your desired latitude and longitud")
+        st.write("You have not selected any location under Location information. Go to 'Location information', and input your desired latitude and longitud")
 
 
 if __name__ == '__main__':
